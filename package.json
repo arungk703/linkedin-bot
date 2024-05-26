@@ -6,6 +6,6 @@
   "dependencies": {
     "chromedriver": "^110.0.0",
     "dotenv": "^16.0.3",
-    "selenium-webdriver": "^4.8.1"
+    "selenium-webdriver": "^4.21.0"
   }
 }
